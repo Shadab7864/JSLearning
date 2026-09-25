@@ -1,6 +1,6 @@
 # JavaScript Basics
 
-A small JavaScript practice program containing `Variables.js`.
+A small JavaScript practice program containing different JS files
 
 ## Requirements
 
